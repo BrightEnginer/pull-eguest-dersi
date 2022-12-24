@@ -1,1 +1,1 @@
-# pull-eguest-dersi
+# pull-request-dersi
